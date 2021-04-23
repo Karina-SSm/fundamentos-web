@@ -15,6 +15,11 @@
     justify-content:center;
 
 }
+.container-2{
+    display: flex;
+    flex-flow: row ;
+    justify-content:center;
+}
 #menu li {
     display: inline;
     padding: 20px;
@@ -36,4 +41,17 @@
 }
 .p-30{
     padding: 15;
+}
+.tm{
+    width: 5opx;
+    height: 50px;
+}
+.mb{
+    margin-bottom: 50px;
+}
+.justify{
+    text-align: justify;
+}
+.ml{
+    margin-left: 50px;
 }
